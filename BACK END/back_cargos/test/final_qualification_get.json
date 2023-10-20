@@ -1,0 +1,15 @@
+{
+    "request_data": {
+        "type_action": "get_final_qualification",
+        "data": {
+            "id_usuario_candidato": "c1872f74-a42e-4529-bbb9-52a5aea9757f",
+            "id_cargo": "f486f696-4569-4ed7-b439-6e8745550fd2"
+        }
+    },
+    
+    "headers": {
+        "Content-Type": "application/json",
+        "Accept": "application/json",
+        "Authorization": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6ImMyNmQ1YmI4LWRhNDMtNDdmZi04MGUzLTcwOTFhN2I0MWI4MSIsIm5vbWJyZXMiOiJKdWFuIENhcmxvcyIsImFwZWxsaWRvcyI6IkN1YXNxdVx1MDBlOW4gUGFudG9qYSIsImZvdG9fZGVfcGVyZmlsIjoiIiwiY29ycmVvIjoianVhbmNhcmxvczMxODUwNEBnbWFpbC5jb20iLCJlbXByZXNhIjoiS2FsZWlkbyBMYWIiLCJleHAiOjE2OTQ3MDYxNDV9.taOguk4hOFoUCLIe56YdtE64shXjkekCsEm6QRSK5u0"
+    }
+}

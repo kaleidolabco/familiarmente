@@ -1,0 +1,14 @@
+{
+    "request_data": {
+        "type_action": "get_avatar",
+        "data": {
+            "id": "cac0ca4e-0b24-44cc-9741-a2860f19b1e0"
+        }
+    },
+    
+    "headers": {
+        "Content-Type": "application/json",
+        "Accept": "application/json",
+        "Authorization": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6ImMyNmQ1YmI4LWRhNDMtNDdmZi04MGUzLTcwOTFhN2I0MWI4MSIsIm5vbWJyZXMiOiJKdWFuIENhcmxvcyIsImFwZWxsaWRvcyI6IkN1YXNxdVx1MDBlOW4gUGFudG9qYSIsImNvcnJlbyI6Imp1YW5jYXJsb3MzMTg1MDRAZ21haWwuY29tIiwiZW1wcmVzYSI6IkthbGVpZG8gTGFiIiwiZXhwIjoxNjkyNDk2NjA4fQ.H6LDh93poI7EUjjJoL9xb65g2963so1GfC94pUOKVkc"
+    }
+}

@@ -1,0 +1,10 @@
+{
+    "request_data": {
+        "type_action": "login",
+        "data": {
+            "correo_usuario": "juancarlos318504@gmail.com",
+            "clave_usuario": "123456",
+            "tipo_usuario": "candidato"
+        }
+    }
+}

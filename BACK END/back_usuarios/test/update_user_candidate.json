@@ -1,0 +1,27 @@
+{
+    "request_data": {
+        "type_action": "update_user_candidate",
+        "data": {
+            "id_candidato": "85055039-8ebb-4b16-9e68-f088e31cfe01",
+            "nombres_candidato": "Juan Carlos",
+            "apellidos_candidato": "Cuasquén Pantoja",
+            "clave_candidato": "1234567",
+            "telefono_candidato": "3185047708",
+            "id_parametro_pais_candidato": "705ef52f-13c4-484c-b8f2-ea8e26aeff76",
+            "fecha_nacimiento_candidato": "1996-11-24",
+            "id_parametro_genero_candidato": "b2ad4fad-8fc5-499d-97ab-3699177cd6e0",
+            "id_parametro_nivel_de_estudios_candidato": "7ea1651d-2990-4a4f-8168-9394709ea6ac",
+            "id_parametro_anos_de_experiencia_candidato": "4c54e535-52f2-4ffa-afe2-a446d43320b1",
+            "titulo_profesional_candidato":"Ingeniero multimedia",
+            "foto_de_perfil_candidato": null,
+            "descripcion_perfil_usuario_candidato":"",
+            "hoja_de_vida_candidato": null
+        }
+    },
+    
+    "headers": {
+        "Content-Type": "application/json",
+        "Accept": "application/json",
+        "Authorization": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6ImMyNmQ1YmI4LWRhNDMtNDdmZi04MGUzLTcwOTFhN2I0MWI4MSIsIm5vbWJyZXMiOiJKdWFuIENhcmxvcyIsImFwZWxsaWRvcyI6IkN1YXNxdVx1MDBlOW4gUGFudG9qYSIsImNvcnJlbyI6Imp1YW5jYXJsb3MzMTg1MDRAZ21haWwuY29tIiwiZW1wcmVzYSI6IkthbGVpZG8gTGFiIiwiZXhwIjoxNjg2NTIyNzE4fQ.Wvjz0fzuidlYOMn_gOybwjLHBhgwmjF4jIHN7gpxw_0"
+    }
+}

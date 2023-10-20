@@ -1,0 +1,14 @@
+{
+    "request_data": {
+        "type_action": "get_evaluation",
+        "data": {
+            "id_respuesta_candidato": "7189d1f1-ea38-4951-819d-28a2f496d59f"
+        }
+    },
+    
+    "headers": {
+        "Content-Type": "application/json",
+        "Accept": "application/json",
+        "Authorization": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6ImMyNmQ1YmI4LWRhNDMtNDdmZi04MGUzLTcwOTFhN2I0MWI4MSIsIm5vbWJyZXMiOiJKdWFuIENhcmxvcyIsImFwZWxsaWRvcyI6IkN1YXNxdVx1MDBlOW4gUGFudG9qYSIsImZvdG9fZGVfcGVyZmlsIjoiIiwiY29ycmVvIjoianVhbmNhcmxvczMxODUwNEBnbWFpbC5jb20iLCJlbXByZXNhIjoiS2FsZWlkbyBMYWIiLCJleHAiOjE2OTUzMTAyODR9.zAaNjz64dNdm-PN0GpUqZDKSvipoFCyX1_TB0ISSgU4"
+    }
+}

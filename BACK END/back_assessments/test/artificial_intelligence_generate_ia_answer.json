@@ -1,0 +1,14 @@
+{
+    "request_data": {
+        "type_action": "generate_ai_answer",
+        "data": {
+            "pregunta": "¿Qué te motiva a trabajar con nosotros?"
+        }
+    },
+    
+    "headers": {
+        "Content-Type": "application/json",
+        "Accept": "application/json",
+        "Authorization": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6ImMyNmQ1YmI4LWRhNDMtNDdmZi04MGUzLTcwOTFhN2I0MWI4MSIsIm5vbWJyZXMiOiJKdWFuIENhcmxvcyIsImFwZWxsaWRvcyI6IkN1YXNxdVx1MDBlOW4gUGFudG9qYSIsImNvcnJlbyI6Imp1YW5jYXJsb3MzMTg1MDRAZ21haWwuY29tIiwiZW1wcmVzYSI6IkthbGVpZG8gTGFiIiwiZXhwIjoxNjkzNzgwODE5fQ.k54MrnJ06gWDV4DNl1RUMmB8MVWcDi8Pr2NQtYZiO_s"
+    }
+}

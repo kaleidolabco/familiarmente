@@ -1,0 +1,14 @@
+{
+    "request_data": {
+        "type_action": "delete_job",
+        "data": {
+            "id": "574df202-e60d-4205-afc9-59bab171e179"
+        }
+    },
+    
+    "headers": {
+        "Content-Type": "application/json",
+        "Accept": "application/json",
+        "Authorization": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6ImMyNmQ1YmI4LWRhNDMtNDdmZi04MGUzLTcwOTFhN2I0MWI4MSIsIm5vbWJyZXMiOiJKdWFuIENhcmxvcyIsImFwZWxsaWRvcyI6IkN1YXNxdVx1MDBlOW4gUGFudG9qYSIsImNvcnJlbyI6Imp1YW5jYXJsb3MzMTg1MDRAZ21haWwuY29tIiwiZW1wcmVzYSI6IkthbGVpZG8gTGFiIiwiZXhwIjoxNjg1MDcyNzE0fQ.aSRtZnLzb4NdA2qSTL9WjjzYUa289hqUAKWYV7AmIz0"
+    }
+}

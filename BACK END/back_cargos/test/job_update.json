@@ -1,0 +1,27 @@
+{
+    "request_data": {
+        "type_action": "update_job",
+        "data": {
+            "id": "574df202-e60d-4205-afc9-59bab171e179",
+            "nombre": "Desarrollador de software", 
+            "titulo_profesional_requerido": "Ingeniero de sistemas, Ingeniero multimedia", 
+            "minimo_salario_mensual": 1000000, 
+            "maximo_salario_mensual": 1500000,
+            "id_parametro_moneda": "928d0c7d-9c69-477b-94ec-bb26aa1bb15c",
+            "ubicacion": "Cali - Valle del Cauca",
+            "trabajo_remoto": false,
+            "descripcion": "Primer trabajo publicado",
+            "requisitos": "Ser responsable",
+            "proceso_de_contratacion": "Entrevista - Contrato",
+            "id_assessment": null,
+            "vacantes": 1,
+            "publicado": false
+        }
+    },
+    
+    "headers": {
+        "Content-Type": "application/json",
+        "Accept": "application/json",
+        "Authorization": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6ImMyNmQ1YmI4LWRhNDMtNDdmZi04MGUzLTcwOTFhN2I0MWI4MSIsIm5vbWJyZXMiOiJKdWFuIENhcmxvcyIsImFwZWxsaWRvcyI6IkN1YXNxdVx1MDBlOW4gUGFudG9qYSIsImNvcnJlbyI6Imp1YW5jYXJsb3MzMTg1MDRAZ21haWwuY29tIiwiZW1wcmVzYSI6IkthbGVpZG8gTGFiIiwiZXhwIjoxNjg1MDcyNzE0fQ.aSRtZnLzb4NdA2qSTL9WjjzYUa289hqUAKWYV7AmIz0"
+    }
+}

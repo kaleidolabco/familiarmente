@@ -1,0 +1,30 @@
+{
+    "request_data": {
+        "type_action": "add_answer_candidate",
+        "data": {
+            "id_usuario_candidato": "c1872f74-a42e-4529-bbb9-52a5aea9757f",
+            "id_pregunta": "e1255cd3-6722-4793-ac38-1bca340177b6",
+            "video_respuesta_usuario": "https://bucket-scenariojobs.s3.us-east-1.amazonaws.com/candidatos/c1872f74-a42e-4529-bbb9-52a5aea9757f/videos/respuestas_assessments/903b5c8d-43f4-43b7-a058-8c5294d7aa30/preguntas/e1255cd3-6722-4793-ac38-1bca340177b6.webm",
+            "data_emociones": [
+                {
+                    "time": 0,
+                    "emotions":{
+                        "angry":0
+                    }
+                },
+                {
+                    "time": 0,
+                    "emotions":{
+                        "angry":0
+                    }
+                }
+            ]
+        }
+    },
+    
+    "headers": {
+        "Content-Type": "application/json",
+        "Accept": "application/json",
+        "Authorization": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6ImMyNmQ1YmI4LWRhNDMtNDdmZi04MGUzLTcwOTFhN2I0MWI4MSIsIm5vbWJyZXMiOiJKdWFuIENhcmxvcyIsImFwZWxsaWRvcyI6IkN1YXNxdVx1MDBlOW4gUGFudG9qYSIsImZvdG9fZGVfcGVyZmlsIjoiIiwiY29ycmVvIjoianVhbmNhcmxvczMxODUwNEBnbWFpbC5jb20iLCJlbXByZXNhIjoiS2FsZWlkbyBMYWIiLCJleHAiOjE2OTUzMTAyODR9.zAaNjz64dNdm-PN0GpUqZDKSvipoFCyX1_TB0ISSgU4"
+    }
+}

@@ -1,0 +1,16 @@
+{
+    "request_data": {
+        "type_action": "add_skill_to_assessment",
+        "data": {
+            "id_assessment": "903b5c8d-43f4-43b7-a058-8c5294d7aa30",
+            "id_competencia": "d21f468a-a0ca-4996-9061-0c4a19b0fcf5",
+            "id_usuario_administrador": "c26d5bb8-da43-47ff-80e3-7091a7b41b81"
+        }
+    },
+    
+    "headers": {
+        "Content-Type": "application/json",
+        "Accept": "application/json",
+        "Authorization": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6ImMyNmQ1YmI4LWRhNDMtNDdmZi04MGUzLTcwOTFhN2I0MWI4MSIsIm5vbWJyZXMiOiJKdWFuIENhcmxvcyIsImFwZWxsaWRvcyI6IkN1YXNxdVx1MDBlOW4gUGFudG9qYSIsImNvcnJlbyI6Imp1YW5jYXJsb3MzMTg1MDRAZ21haWwuY29tIiwiZW1wcmVzYSI6IkthbGVpZG8gTGFiIiwiZXhwIjoxNjkxODA4MDMzfQ.2K447By7DCa4DsEFD9aIfk_SqWpzk2mIURAzoiL2FHg"
+    }
+}

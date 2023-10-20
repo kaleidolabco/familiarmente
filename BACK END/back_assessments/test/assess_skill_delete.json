@@ -1,0 +1,14 @@
+{
+    "request_data": {
+        "type_action": "delete_skill_from_assessment",
+        "data": {
+            "id_competencia_assessment": "583a9f26-2aee-4341-8b9b-a878689be610"
+        }
+    },
+    
+    "headers": {
+        "Content-Type": "application/json",
+        "Accept": "application/json",
+        "Authorization": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6ImMyNmQ1YmI4LWRhNDMtNDdmZi04MGUzLTcwOTFhN2I0MWI4MSIsIm5vbWJyZXMiOiJKdWFuIENhcmxvcyIsImFwZWxsaWRvcyI6IkN1YXNxdVx1MDBlOW4gUGFudG9qYSIsImNvcnJlbyI6Imp1YW5jYXJsb3MzMTg1MDRAZ21haWwuY29tIiwiZW1wcmVzYSI6IkthbGVpZG8gTGFiIiwiZXhwIjoxNjkxODA4MDMzfQ.2K447By7DCa4DsEFD9aIfk_SqWpzk2mIURAzoiL2FHg"
+    }
+}

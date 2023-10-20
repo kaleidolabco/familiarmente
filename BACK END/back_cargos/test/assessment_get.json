@@ -1,0 +1,14 @@
+{
+    "request_data": {
+        "type_action": "get_job_assessment_data",
+        "data": {
+            "id_cargo": "f486f696-4569-4ed7-b439-6e8745550fd2"
+        }
+    },
+    
+    "headers": {
+        "Content-Type": "application/json",
+        "Accept": "application/json",
+        "Authorization": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6ImMyNmQ1YmI4LWRhNDMtNDdmZi04MGUzLTcwOTFhN2I0MWI4MSIsIm5vbWJyZXMiOiJKdWFuIENhcmxvcyIsImFwZWxsaWRvcyI6IkN1YXNxdVx1MDBlOW4gUGFudG9qYSIsImNvcnJlbyI6Imp1YW5jYXJsb3MzMTg1MDRAZ21haWwuY29tIiwiZW1wcmVzYSI6IkthbGVpZG8gTGFiIiwiZXhwIjoxNjkyNDA3OTE4fQ.9l-o8cJWb3TUS0Jkk5l33YXVTqdayx4hV9c0NLgF6to"
+    }
+}

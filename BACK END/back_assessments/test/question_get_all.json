@@ -1,0 +1,14 @@
+{
+    "request_data": {
+        "type_action": "get_all_questions_of_moment",
+        "data": {
+            "id_momento": "df9c52a9-e47f-4c32-a37d-d0ad497f37e0"
+        }
+    },
+    
+    "headers": {
+        "Content-Type": "application/json",
+        "Accept": "application/json",
+        "Authorization": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6ImMyNmQ1YmI4LWRhNDMtNDdmZi04MGUzLTcwOTFhN2I0MWI4MSIsIm5vbWJyZXMiOiJKdWFuIENhcmxvcyIsImFwZWxsaWRvcyI6IkN1YXNxdVx1MDBlOW4gUGFudG9qYSIsImZvdG9fZGVfcGVyZmlsIjoiIiwiY29ycmVvIjoianVhbmNhcmxvczMxODUwNEBnbWFpbC5jb20iLCJlbXByZXNhIjoiS2FsZWlkbyBMYWIiLCJleHAiOjE2OTc3NzUwNjJ9.K9YqgJdCQbvQ9rg5_cE1B7F7Lf6qzm1Mhs1lzMo8P00"
+    }
+}

@@ -1,0 +1,16 @@
+{
+    "request_data": {
+        "type_action": "update_assessment",
+        "data": {
+            "id" : "ac89b2d8-87a5-4808-a7cb-1715be08aec9",
+            "nombre": "Mi assessment", 
+            "descripcion": "assessment de prueba numero 2"
+        }
+    },
+    
+    "headers": {
+        "Content-Type": "application/json",
+        "Accept": "application/json",
+        "Authorization": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6ImMyNmQ1YmI4LWRhNDMtNDdmZi04MGUzLTcwOTFhN2I0MWI4MSIsIm5vbWJyZXMiOiJKdWFuIENhcmxvcyIsImFwZWxsaWRvcyI6IkN1YXNxdVx1MDBlOW4gUGFudG9qYSIsImNvcnJlbyI6Imp1YW5jYXJsb3MzMTg1MDRAZ21haWwuY29tIiwiZW1wcmVzYSI6IkthbGVpZG8gTGFiIiwiZXhwIjoxNjkxNTk4MDMxfQ.sEsjnK-Dg-aDOPRxqly8vDjYBPYddjfCgdctAaVRY-c"
+    }
+}

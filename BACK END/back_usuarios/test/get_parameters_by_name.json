@@ -1,0 +1,8 @@
+{
+    "request_data": {
+        "type_action": "get_by_name_parameters",
+        "data": {
+            "nombre_tipo_parametro": "pais"
+        }
+    }
+} 

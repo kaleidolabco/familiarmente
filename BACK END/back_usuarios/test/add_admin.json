@@ -1,0 +1,16 @@
+{
+    "request_data": {
+        "type_action": "add_admin",
+        "data": {
+            "nombres_administrador": "Juan Carlos",
+            "apellidos_administrador": "Cuasquén Pantoja",
+            "correo_administrador": "juancarlos318504@gmail.com",
+            "clave_administrador": "123456",
+            "telefono_administrador": "3185047708",
+            "id_parametro_pais_administrador": "705ef52f-13c4-484c-b8f2-ea8e26aeff76",
+            "fecha_nacimiento_administrador": "1996-11-24",
+            "id_parametro_genero_administrador": "b2ad4fad-8fc5-499d-97ab-3699177cd6e0",
+            "empresa_administrador": "Kaleido Lab"
+        }
+    }
+} 

@@ -1,0 +1,16 @@
+{
+    "request_data": {
+        "type_action": "get_all_assessments",
+        "data": {
+            "id_usuario_administrador": "c26d5bb8-da43-47ff-80e3-7091a7b41b81",
+            "cantidad_por_pagina": 10,
+            "pagina": 1
+        }
+    },
+    
+    "headers": {
+        "Content-Type": "application/json",
+        "Accept": "application/json",
+        "Authorization": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6ImMyNmQ1YmI4LWRhNDMtNDdmZi04MGUzLTcwOTFhN2I0MWI4MSIsIm5vbWJyZXMiOiJKdWFuIENhcmxvcyIsImFwZWxsaWRvcyI6IkN1YXNxdVx1MDBlOW4gUGFudG9qYSIsImNvcnJlbyI6Imp1YW5jYXJsb3MzMTg1MDRAZ21haWwuY29tIiwiZW1wcmVzYSI6IkthbGVpZG8gTGFiIiwiZXhwIjoxNjkxNTk4MDMxfQ.sEsjnK-Dg-aDOPRxqly8vDjYBPYddjfCgdctAaVRY-c"
+    }
+}

@@ -1,0 +1,15 @@
+{
+    "request_data": {
+        "type_action": "get_job_application",
+        "data": {
+            "id_usuario_candidato": "c1872f74-a42e-4529-bbb9-52a5aea9757f",
+            "id_cargo": "f486f696-4569-4ed7-b439-6e8745550fd2"
+        }
+    },
+    
+    "headers": {
+        "Content-Type": "application/json",
+        "Accept": "application/json",
+        "Authorization": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6ImMyNmQ1YmI4LWRhNDMtNDdmZi04MGUzLTcwOTFhN2I0MWI4MSIsIm5vbWJyZXMiOiJKdWFuIENhcmxvcyIsImFwZWxsaWRvcyI6IkN1YXNxdVx1MDBlOW4gUGFudG9qYSIsImNvcnJlbyI6Imp1YW5jYXJsb3MzMTg1MDRAZ21haWwuY29tIiwiZW1wcmVzYSI6IkthbGVpZG8gTGFiIiwiZXhwIjoxNjk0MjA3MDczfQ.zGX7eGICC-kav9PR68K8EAvcnybWbZgb4LsufyiBtLs"
+    }
+}

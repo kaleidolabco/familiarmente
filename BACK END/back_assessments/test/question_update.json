@@ -1,0 +1,27 @@
+{
+    "request_data": {
+        "type_action": "update_question",
+        "data": {
+            "id": "ea6d561b-0844-4447-8358-36a4bea26b30",
+            "id_parametro_tipo_de_pregunta": "b460eaec-fbcd-49fd-9528-92ca225029af",
+            "pregunta": "¿Qué es la creatividad?",
+            "texto_avatar": "¿Qué es la creatividad?",
+            "respuesta_sugerida": "Es una capacidad para algo",
+            "umbral_minimo_calificacion": 0,
+            "umbral_maximo_calificacion": 5,
+            "duracion_maxima_de_respuesta": 3000,
+            "peso_calificacion_evaluador": 50,
+            "peso_calificacion_ia": 50,
+            "id_parametro_tipo_avatar": null,
+            "video_avatar_pregunta": null,
+            "id_avatar_virtual": null,
+            "nombre_avatar": "Juan"
+        }
+    },
+    
+    "headers": {
+        "Content-Type": "application/json",
+        "Accept": "application/json",
+        "Authorization": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6ImMyNmQ1YmI4LWRhNDMtNDdmZi04MGUzLTcwOTFhN2I0MWI4MSIsIm5vbWJyZXMiOiJKdWFuIENhcmxvcyIsImFwZWxsaWRvcyI6IkN1YXNxdVx1MDBlOW4gUGFudG9qYSIsImZvdG9fZGVfcGVyZmlsIjoiIiwiY29ycmVvIjoianVhbmNhcmxvczMxODUwNEBnbWFpbC5jb20iLCJlbXByZXNhIjoiS2FsZWlkbyBMYWIiLCJleHAiOjE2OTc1NTI0MDR9.jW-Lf5PLOfjexE-jTNLPmL7rfYgy4Ne-VriVfiJyhT0"
+    }
+}

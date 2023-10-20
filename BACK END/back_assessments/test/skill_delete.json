@@ -1,0 +1,14 @@
+{
+    "request_data": {
+        "type_action": "delete_skill",
+        "data": {
+            "id" : "0bbe6958-ca80-4d7c-b886-f21eaa69a0d1"
+        }
+    },
+    
+    "headers": {
+        "Content-Type": "application/json",
+        "Accept": "application/json",
+        "Authorization": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6ImMyNmQ1YmI4LWRhNDMtNDdmZi04MGUzLTcwOTFhN2I0MWI4MSIsIm5vbWJyZXMiOiJKdWFuIENhcmxvcyIsImFwZWxsaWRvcyI6IkN1YXNxdVx1MDBlOW4gUGFudG9qYSIsImNvcnJlbyI6Imp1YW5jYXJsb3MzMTg1MDRAZ21haWwuY29tIiwiZW1wcmVzYSI6IkthbGVpZG8gTGFiIiwiZXhwIjoxNjkxMzUzMjk1fQ.We1EfYiQLAxSj_k9T9ITfd6wRuWl8APFVa-7gNElcKo"
+    }
+}

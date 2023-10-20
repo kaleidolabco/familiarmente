@@ -1,0 +1,16 @@
+{
+    "request_data": {
+        "type_action": "search_by_name_published_jobs",
+        "data": {
+            "nombre_buscado": "h",
+            "cantidad_por_pagina": 5,
+            "pagina": 1
+        }
+    },
+    
+    "headers": {
+        "Content-Type": "application/json",
+        "Accept": "application/json",
+        "Authorization": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6ImMyNmQ1YmI4LWRhNDMtNDdmZi04MGUzLTcwOTFhN2I0MWI4MSIsIm5vbWJyZXMiOiJKdWFuIENhcmxvcyIsImFwZWxsaWRvcyI6IkN1YXNxdVx1MDBlOW4gUGFudG9qYSIsImNvcnJlbyI6Imp1YW5jYXJsb3MzMTg1MDRAZ21haWwuY29tIiwiZW1wcmVzYSI6IkthbGVpZG8gTGFiIiwiZXhwIjoxNjkyMTU1OTg1fQ.sKMb6dUIkIy2ccHC4J5k79eTq-QHMG6LxwmYg9gmdiY"
+    }
+}

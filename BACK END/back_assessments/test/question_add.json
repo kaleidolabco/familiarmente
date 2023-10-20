@@ -1,0 +1,15 @@
+{
+    "request_data": {
+        "type_action": "add_question",
+        "data": {
+            "id_parametro_tipo_de_pregunta": "b460eaec-fbcd-49fd-9528-92ca225029af",
+            "id_momento": "87b885db-87e5-4806-8cbb-6e9b95e30571"
+        }
+    },
+    
+    "headers": {
+        "Content-Type": "application/json",
+        "Accept": "application/json",
+        "Authorization": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6ImMyNmQ1YmI4LWRhNDMtNDdmZi04MGUzLTcwOTFhN2I0MWI4MSIsIm5vbWJyZXMiOiJKdWFuIENhcmxvcyIsImFwZWxsaWRvcyI6IkN1YXNxdVx1MDBlOW4gUGFudG9qYSIsImZvdG9fZGVfcGVyZmlsIjoiIiwiY29ycmVvIjoianVhbmNhcmxvczMxODUwNEBnbWFpbC5jb20iLCJlbXByZXNhIjoiS2FsZWlkbyBMYWIiLCJleHAiOjE2OTc1NTI0MDR9.jW-Lf5PLOfjexE-jTNLPmL7rfYgy4Ne-VriVfiJyhT0"
+    }
+}

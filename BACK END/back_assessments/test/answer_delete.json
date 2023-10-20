@@ -1,0 +1,15 @@
+{
+    "request_data": {
+        "type_action": "delete_answer_candidate",
+        "data": {
+            "id_usuario_candidato": "c1872f74-a42e-4529-bbb9-52a5aea9757f",
+            "id_pregunta": "e1255cd3-6722-4793-ac38-1bca340177b6"
+        }
+    },
+    
+    "headers": {
+        "Content-Type": "application/json",
+        "Accept": "application/json",
+        "Authorization": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6ImMxODcyZjc0LWE0MmUtNDUyOS1iYmI5LTUyYTVhZWE5NzU3ZiIsIm5vbWJyZXMiOiJKdWFuIENhcmxvcyIsImFwZWxsaWRvcyI6IkN1YXNxdWVuIiwiY29ycmVvIjoianVhbmNhcmxvczMxODUwNEBnbWFpbC5jb20iLCJleHAiOjE2OTI0NjA3ODF9.aXu0C7liKLN1RXm7M4FvUwIl3DxziN-7zyvgQVtyI-E"
+    }
+}

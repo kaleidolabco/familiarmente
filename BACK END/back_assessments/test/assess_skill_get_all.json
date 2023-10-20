@@ -1,0 +1,14 @@
+{
+    "request_data": {
+        "type_action": "get_all_skill_of_assessment",
+        "data": {
+            "id_assessment": "903b5c8d-43f4-43b7-a058-8c5294d7aa30"
+        }
+    },
+    
+    "headers": {
+        "Content-Type": "application/json",
+        "Accept": "application/json",
+        "Authorization": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6ImMyNmQ1YmI4LWRhNDMtNDdmZi04MGUzLTcwOTFhN2I0MWI4MSIsIm5vbWJyZXMiOiJKdWFuIENhcmxvcyIsImFwZWxsaWRvcyI6IkN1YXNxdVx1MDBlOW4gUGFudG9qYSIsImZvdG9fZGVfcGVyZmlsIjoiIiwiY29ycmVvIjoianVhbmNhcmxvczMxODUwNEBnbWFpbC5jb20iLCJlbXByZXNhIjoiS2FsZWlkbyBMYWIiLCJleHAiOjE2OTc1NTI0MDR9.jW-Lf5PLOfjexE-jTNLPmL7rfYgy4Ne-VriVfiJyhT0"
+    }
+}

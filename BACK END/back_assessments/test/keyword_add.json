@@ -1,0 +1,15 @@
+{
+    "request_data": {
+        "type_action": "add_keyword",
+        "data": {
+            "palabra": "ideas novedosas", 
+            "id_pregunta": "5f704ed4-ee35-4b10-82cf-53024373773a"
+        }
+    },
+    
+    "headers": {
+        "Content-Type": "application/json",
+        "Accept": "application/json",
+        "Authorization": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6ImMyNmQ1YmI4LWRhNDMtNDdmZi04MGUzLTcwOTFhN2I0MWI4MSIsIm5vbWJyZXMiOiJKdWFuIENhcmxvcyIsImFwZWxsaWRvcyI6IkN1YXNxdVx1MDBlOW4gUGFudG9qYSIsImZvdG9fZGVfcGVyZmlsIjoiIiwiY29ycmVvIjoianVhbmNhcmxvczMxODUwNEBnbWFpbC5jb20iLCJlbXByZXNhIjoiS2FsZWlkbyBMYWIiLCJleHAiOjE2OTc4MDgxMTV9.Qt23h1kb8YPMittvUv-FbmAdASLMaKzthBYAZjkxZ1I"
+    }
+}

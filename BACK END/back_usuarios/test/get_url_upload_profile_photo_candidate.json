@@ -1,0 +1,15 @@
+{
+    "request_data": {
+        "type_action": "get_url_upload_profile_photo_candidate",
+        "data": {
+            "id_candidato": "c1872f74-a42e-4529-bbb9-52a5aea9757f",
+            "formato_archivo":"png"
+        }
+    },
+    
+    "headers": {
+        "Content-Type": "application/json",
+        "Accept": "application/json",
+        "Authorization": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6ImMxODcyZjc0LWE0MmUtNDUyOS1iYmI5LTUyYTVhZWE5NzU3ZiIsIm5vbWJyZXMiOiJKdWFuIENhcmxvcyIsImFwZWxsaWRvcyI6IkN1YXNxdWVuIiwiY29ycmVvIjoianVhbmNhcmxvczMxODUwNEBnbWFpbC5jb20iLCJleHAiOjE2OTExNjc1NzJ9.GywrV7V38vOy7C5CH1yLr8_V-2oCiHhxY46qroU-EbY"
+    }
+}

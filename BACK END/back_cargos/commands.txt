@@ -1,0 +1,10 @@
+python -m virtualenv venv                           // Crear el entorno virtual 
+python -m virtualenv venv --python=python2.7        // Crear el entorno virtual con una versión específica de python
+Set-ExecutionPolicy Unrestricted -Scope Process     // Brindar permisos para instalar paquetes y cambiar de entorno
+.\venv\Scripts\activate                             // Activar entorno virtual
+
+pip freeze > requirements.txt                       // Generar archivo con lista de paquetes usados en el proyecto
+
+pip install python-lambda-local
+python-lambda-local -f lambda_handler lambda_function.py files/nombre_del_json.json
+python-lambda-local -l venv/Lib/site-packages -f lambda_handler lambda_function.py test/login_admin.json

@@ -1,0 +1,17 @@
+{
+    "request_data": {
+        "type_action": "search_by_name_skills",
+        "data": {
+            "id_usuario_administrador": "c26d5bb8-da43-47ff-80e3-7091a7b41b81",
+            "nombre_buscado": "comun",
+            "cantidad_por_pagina": 5,
+            "pagina": 1
+        }
+    },
+    
+    "headers": {
+        "Content-Type": "application/json",
+        "Accept": "application/json",
+        "Authorization": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6ImMyNmQ1YmI4LWRhNDMtNDdmZi04MGUzLTcwOTFhN2I0MWI4MSIsIm5vbWJyZXMiOiJKdWFuIENhcmxvcyIsImFwZWxsaWRvcyI6IkN1YXNxdVx1MDBlOW4gUGFudG9qYSIsImNvcnJlbyI6Imp1YW5jYXJsb3MzMTg1MDRAZ21haWwuY29tIiwiZW1wcmVzYSI6IkthbGVpZG8gTGFiIiwiZXhwIjoxNjkxMzUzMjk1fQ.We1EfYiQLAxSj_k9T9ITfd6wRuWl8APFVa-7gNElcKo"
+    }
+}
